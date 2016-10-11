@@ -10,7 +10,6 @@
  * PLEASE NOTE: THE MAC METHODS ONLY WORK WITH JDK 8!
  *
  */
-package com.andrewm;
 
 import java.awt.Image;
 import java.lang.reflect.InvocationTargetException;
